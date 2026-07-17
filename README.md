@@ -86,9 +86,9 @@ lightweight RoBERTa (AI/ML) model.
 </td>
 <td width="50%" valign="top">
 
-### 🐳 [docker-mcp](https://github.com/hmanshu-p/docker-mcp)
-Running Model Context Protocol (MCP) AI servers in
-Docker — hands-on with AI tooling in containers. *(fork)*
+### 🏛️ [LibraDesk](https://github.com/hmanshu-p/LibraDesk)
+Full-stack library management system — cataloging,
+member management, and borrow/return workflows.
 
 </td>
 </tr>
