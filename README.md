@@ -7,9 +7,12 @@
 Defensive security and compliance professional with a background in **fintech**.
 I focus on keeping regulated financial systems secure, resilient, and audit-ready —
 turning security requirements into controls that hold up to real scrutiny.
+Increasingly working across **cloud security and AI/ML**, securing modern
+cloud-native and AI-driven systems.
 
 Former software engineer, so I understand the systems I defend from the inside out.
-**M.S. Applied Cybersecurity · CEH**
+
+**🎓 M.S. Applied Cybersecurity&nbsp;&nbsp;·&nbsp;&nbsp;📜 CEH**
 
 <img src="https://komarev.com/ghpvc/?username=hmanshu-p&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
 
@@ -24,6 +27,8 @@ Former software engineer, so I understand the systems I defend from the inside o
 ![GRC](https://img.shields.io/badge/Governance%2C%20Risk%20%26%20Compliance-0e4d64?style=for-the-badge)
 ![Security Audit](https://img.shields.io/badge/Security%20%26%20Compliance%20Audit-0e4d64?style=for-the-badge)
 ![Defensive Security](https://img.shields.io/badge/Defensive%20Security-0e4d64?style=for-the-badge)
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-0e4d64?style=for-the-badge)
+![AI/ML Security](https://img.shields.io/badge/AI%2FML%20Security-0e4d64?style=for-the-badge)
 ![AppSec](https://img.shields.io/badge/Application%20Security-0e4d64?style=for-the-badge)
 
 </div>
@@ -31,7 +36,7 @@ Former software engineer, so I understand the systems I defend from the inside o
 <div align="center">
 
 Governance, Risk & Compliance · Regulatory & framework alignment for fintech ·
-Security auditing & controls · Threat detection & response · Secure software practices
+Security auditing & controls · Cloud & AI security · Threat detection & response
 
 </div>
 
@@ -45,8 +50,8 @@ Security auditing & controls · Threat detection & response · Secure software p
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -76,14 +81,14 @@ for hands-on security testing and training.
 
 ### 📰 [fake_snooper](https://github.com/hmanshu-p/fake_snooper)
 Browser extension that flags misinformation using a
-lightweight RoBERTa model.
+lightweight RoBERTa (AI/ML) model.
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [nullredirect.com](https://nullredirect.com)
-Notes and write-ups on security, compliance, and
-things worth documenting.
+### 🐳 [docker-mcp](https://github.com/hmanshu-p/docker-mcp)
+Running Model Context Protocol (MCP) AI servers in
+Docker — hands-on with AI tooling in containers. *(fork)*
 
 </td>
 </tr>
@@ -118,6 +123,6 @@ things worth documenting.
 
 <div align="center">
 
-<i>Security for all or security for none.</i>
+<i>My threat model includes Mondays.</i>
 
 </div>
