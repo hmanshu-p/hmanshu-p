@@ -2,12 +2,14 @@
 
 # Himanshu Pise
 
-### 🛡️ Cybersecurity Analyst · Breaker & Fixer of Things
+### Cybersecurity Analyst · Defensive Security & Compliance
 
-Compliance, audit, and keeping things from falling apart.
-I spend most of my time thinking about how things break — and how to stop them.
+Defensive security and compliance professional with a background in **fintech**.
+I focus on keeping regulated financial systems secure, resilient, and audit-ready —
+turning security requirements into controls that hold up to real scrutiny.
 
-**M.S. Applied Cybersecurity · CEH · Former software engineer turned full-time security guy.**
+Former software engineer, so I understand the systems I defend from the inside out.
+**M.S. Applied Cybersecurity · CEH**
 
 <img src="https://komarev.com/ghpvc/?username=hmanshu-p&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
 
@@ -15,7 +17,27 @@ I spend most of my time thinking about how things break — and how to stop them
 
 ---
 
-## 🧰 Tools of the trade
+## 🎯 Focus areas
+
+<div align="center">
+
+![GRC](https://img.shields.io/badge/Governance%2C%20Risk%20%26%20Compliance-0e4d64?style=for-the-badge)
+![Security Audit](https://img.shields.io/badge/Security%20%26%20Compliance%20Audit-0e4d64?style=for-the-badge)
+![Defensive Security](https://img.shields.io/badge/Defensive%20Security-0e4d64?style=for-the-badge)
+![AppSec](https://img.shields.io/badge/Application%20Security-0e4d64?style=for-the-badge)
+
+</div>
+
+<div align="center">
+
+Governance, Risk & Compliance · Regulatory & framework alignment for fintech ·
+Security auditing & controls · Threat detection & response · Secure software practices
+
+</div>
+
+---
+
+## 🧰 Tools & tech
 
 <div align="center">
 
@@ -30,22 +52,22 @@ I spend most of my time thinking about how things break — and how to stop them
 
 ---
 
-## 🛠️ Things I've built
+## 🛠️ Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🔐 [GIFStego](https://github.com/hmanshu-p/GIFStego)
-Hides encrypted messages inside GIF files using AES.
-**Got published too.**
+AES-based steganography tool that conceals encrypted
+messages inside GIF files. **Published research.**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛒 [BunBay](https://github.com/hmanshu-p/BunBay)
-Intentionally vulnerable e-commerce app.
-**Break it on purpose.**
+Intentionally vulnerable e-commerce application built
+for hands-on security testing and training.
 
 </td>
 </tr>
@@ -53,14 +75,15 @@ Intentionally vulnerable e-commerce app.
 <td width="50%" valign="top">
 
 ### 📰 [fake_snooper](https://github.com/hmanshu-p/fake_snooper)
-Chrome extension that flags fake news using a
+Browser extension that flags misinformation using a
 lightweight RoBERTa model.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 [nullredirect.com](https://nullredirect.com)
-Where I write things down before I forget them.
+Notes and write-ups on security, compliance, and
+things worth documenting.
 
 </td>
 </tr>
@@ -68,7 +91,7 @@ Where I write things down before I forget them.
 
 ---
 
-## 🎓 Certs
+## 🎓 Certifications
 
 <div align="center">
 
@@ -81,7 +104,7 @@ Where I write things down before I forget them.
 
 ---
 
-## 🤝 Find me
+## 🤝 Connect
 
 <div align="center">
 
@@ -95,6 +118,6 @@ Where I write things down before I forget them.
 
 <div align="center">
 
-<i>My threat model includes Mondays.</i>
+<i>Security for all or security for none.</i>
 
 </div>
